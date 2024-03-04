@@ -1,2 +1,2 @@
 # 100-days-of-coding-challange-
-Exercise01
+Typescript Codeing Challange 
